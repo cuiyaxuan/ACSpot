@@ -1,5 +1,5 @@
 # ACSpot: A Clustering Algorithm for Brain Regions Spatial Transcriptomics Data
-Now, codes of Spot implemented by pytorch is available:
+Now, codes of ACSpot implemented by pytorch is available:
 
 pytorch-1.3.1
 
