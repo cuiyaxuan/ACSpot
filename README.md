@@ -11,6 +11,6 @@ scipy
 
 ################################
 
-You can download the file, unzip "3000matrix.csv.zip," and run "run3.py" to obtain the spatial transcriptome clustering result.
+You can download the file, unzip "3000matrix.csv.zip," and run "run3.py" to obtain the spatial transcriptome clustering result. You can also obtain the reconstruction matrix.
 
 the raw dataset: https://github.com/LieberInstitute/HumanPilot
